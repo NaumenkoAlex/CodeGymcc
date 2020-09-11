@@ -1,0 +1,25 @@
+package com.codegym.task.task15.task1514;
+
+import java.util.HashMap;
+import java.util.Map;
+
+/* 
+Static modifiers: part 1
+
+*/
+
+public class Solution {
+    public static Map<Double, String> labels = new HashMap<>();
+
+    static {
+        labels.put(2.0, "lol");
+        labels.put(3.0, "uol");
+        labels.put(4.0, "dol");
+        labels.put(5.0, "rol");
+        labels.put(6.0, "pol");
+    }
+
+    public static void main(String[] args) {
+        System.out.println(labels);
+    }
+}
