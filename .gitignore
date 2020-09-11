@@ -4,9 +4,9 @@
 target/
 .idea/
 .idea
+.gitignore
 *.iml
 *.iws
-*.tcs
 *.info
 *.properties
 
