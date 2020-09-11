@@ -3,20 +3,20 @@ The most interesting projects:
 
 MineSweeper -
 
-https://github.com/NaumenkoAlex/CodeGymcc/tree/master/8.Games/src/com/codegym/games/minesweeper
+http://surl.li/fhsj
 
 Snake -   
 
-https://github.com/NaumenkoAlex/CodeGymcc/tree/master/8.Games/src/com/codegym/games/snake
+http://surl.li/fhsl
 
 Console Snake -
 
-https://github.com/NaumenkoAlex/CodeGymcc/tree/master/3.JavaMultithreading/src/com/codegym/task/task23/task2312
+http://surl.li/fhsm
 
 Console Arkanoid -
 
-https://github.com/NaumenkoAlex/CodeGymcc/tree/master/3.JavaMultithreading/src/com/codegym/task/task24/task2413
+http://surl.li/fhso
 
 Chat - 
 
-https://github.com/NaumenkoAlex/CodeGymcc/tree/master/3.JavaMultithreading/src/com/codegym/task/task30/task3008
+http://surl.li/fhsp
