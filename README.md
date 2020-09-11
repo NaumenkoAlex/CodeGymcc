@@ -4,7 +4,7 @@ The most interesting projects:
 MineSweeper -
 https://github.com/NaumenkoAlex/CodeGymcc/tree/master/8.Games/src/com/codegym/games/minesweeper
 
-Snake -
+Snake -   
 https://github.com/NaumenkoAlex/CodeGymcc/tree/master/8.Games/src/com/codegym/games/snake
 
 Console Snake -
