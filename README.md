@@ -1,22 +1,12 @@
 # CodeGymcc
 The most interesting projects:
 
-MineSweeper -
+MineSweeper - http://surl.li/fhsj
 
-http://surl.li/fhsj
+Snake - http://surl.li/fhsl
 
-Snake -   
+Console Snake - http://surl.li/fhsm
 
-http://surl.li/fhsl
+Console Arkanoid - http://surl.li/fhso
 
-Console Snake -
-
-http://surl.li/fhsm
-
-Console Arkanoid -
-
-http://surl.li/fhso
-
-Chat - 
-
-http://surl.li/fhsp
+Chat - http://surl.li/fhsp
